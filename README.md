@@ -29,3 +29,5 @@ output.to_csv('my_submission.csv',index=False)
 print("Your submission was successfully saved")
 ![E72%WNZ L GR0M0H)(U S8](https://user-images.githubusercontent.com/51742666/173223603-6dbd0659-6527-4cbf-a49a-221c40f946b1.png)
 看到37.00
+6/14
+1,day2的视频看完了
